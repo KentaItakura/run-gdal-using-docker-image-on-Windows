@@ -17,6 +17,8 @@ In this article, I will first show you how to set up the environment using Docke
 - You can download it from the following link.
 - Please ensure that WSL 2 is enabled.
 
+https://docs.docker.com/desktop/install/windows-install/
+
 ## 2.2. Install the docker file for gdal
 
 Access the following page to obtain the Docker file for setting up a gdal environment in Docker:
